@@ -6,4 +6,4 @@ In the end I was able to develop a full project based on the requirements that I
 
 It was quite fun, though I had to go to the previous chapters to remind myself things that I had forgotten.
 
-Disclaimer: The text used in the description, ingredient list, and steps to prepare the recipes is all ai generated. But the code is original and my own doing. 
+Attention: The text used in the description, ingredient list, and steps to prepare the recipes is all ai generated. But the code is original and my own doing. 
